@@ -11,8 +11,8 @@ Sylabbus: https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Intermediate+Jav
 
 ## Table of Content
 
-[1. Object Oriented JavaScript]()
-[2. Functional Programming]()
-[3. Asynchronous Programming in JavaScript]()
+1. [Object Oriented JavaScript]()
+2. [Functional Programming]()
+3. [Asynchronous Programming in JavaScript]()
 
 This repo is protected under the [MIT License](https://github.com/rickyfelix19/leaping-hare/blob/main/LICENSE)
