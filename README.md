@@ -16,4 +16,6 @@ Link: https://www.udacity.com/course/intermediate-javascript-nanodegree--nd032
 
 [Sylabbus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Intermediate+JavaScript+Nanodegree+Program+Syllabus.pdf)
 
+___
+
 This repo is protected under the [MIT License](https://github.com/rickyfelix19/leaping-hare/blob/main/LICENSE)
